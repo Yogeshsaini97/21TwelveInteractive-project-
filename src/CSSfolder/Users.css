@@ -1,0 +1,19 @@
+.card{
+   transition:all 0.3s ease-in-out 0.3s;
+}
+.card:hover
+{
+    background-color: #bbcfef;
+    box-shadow: 0px 0px 10px;
+    border:1px solid black;
+    width:150%;
+}
+
+.heading
+{
+    position: relative;
+    top: 56px;
+    display: flex;
+    justify-content: space-around;
+    height: 62px;
+}

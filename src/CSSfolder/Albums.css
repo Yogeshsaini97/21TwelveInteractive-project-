@@ -1,0 +1,8 @@
+.heading
+{
+    position: relative;
+    top: 56px;
+    display: flex;
+    justify-content: space-around;
+    height: 62px;
+}
